@@ -1,0 +1,19 @@
+# Eclipse project files
+.classpath
+.project
+.settings/
+.mymetadata
+.myeclipse/
+.springBeans
+
+# Others
+target/
+logs/
+.svn/
+build/
+.externalToolBuilders/
+work/
+Desktop.ini
+*.log/rscloudmart-usercenter-client
+/java.exe
+uploadTmpDir/
